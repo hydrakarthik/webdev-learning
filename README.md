@@ -1,33 +1,63 @@
-# webdev-learning
+# 🌐 Web Development Learning Repository
 
-# 🌐 My First Website
+## 📌 About This Repository
+This repository documents my **web development learning journey**.
 
-This is my first website project, built using only HTML and CSS.  
-No JavaScript. No frameworks. Just pure structure and style.
+I am learning and building using **modern web technologies**, starting from the basics and moving toward full-stack development.  
+All **updates, experiments, and improvements** will be shared here as I progress.
 
-## 🚀 What’s Inside
-- Clean HTML structure  
-- Basic CSS styling  
-- Simple layout  
-- Beginner-friendly code  
+---
 
-## 🛠 Tech Stack
-- HTML5  
-- CSS3  
+## 🚀 Current Project
+### My First Website
+Built using **HTML and CSS** as a foundation.
 
-## 😄 Fun Fact
-JavaScript wanted to join… but this project said “not today.”
+No JavaScript yet.  
+No frameworks yet.  
+Strong focus on structure and styling.
+
+---
+
+## ✨ What’s Inside
+- Clean and semantic HTML  
+- Basic to improved CSS styling  
+- Simple, readable layouts  
+- Beginner-friendly and evolving code  
+
+---
+
+## 🛠 Tech Stack (Learning & Using)
+- **HTML5**
+- **CSS3**
+- **JavaScript** (learning)
+- **Node.js** (learning)
+- **React.js** (learning)
+- More tools and frameworks will be added over time
+
+---
 
 ## 📂 How to Run
 1. Clone the repository  
 2. Open `index.html` in your browser  
-3. That’s it  
+3. No setup required for current projects  
+
+---
 
 ## 🎯 Purpose
-- Learn web development basics  
-- Practice layout and styling  
-- Build my first real project  
+- Learn web development from scratch to advanced  
+- Practice frontend and backend tools  
+- Build real, usable projects  
+- Track growth publicly through commits  
+
+---
+
+## 🔄 Updates
+- Repository is **actively maintained**
+- Code will be refactored as skills improve
+- New projects and folders will be added regularly
+
+---
 
 ## 📌 Status
-Completed  
-More improvements coming as I learn
+🟡 In progress  
+📈 Continuous learning and updates
