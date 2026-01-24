@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css animation</title>
+    <style>
+        .container {
+
+            background-color: rgb(135, 238, 112);
+            height: 80vh;
+            width: 30vw;
+
+            .n{
+                 animation: kar 3s ease-in-out 3s infinite;
+                 align-items: center;
+                 transform-origin: 50%;
+            }
+        }
+
+        .box {
+            width: 34px;
+            height: 45px;
+            background-color: aqua;
+            /* animation-name: karthik;
+            animation-duration: 3s;
+            animation-iteration-count: infinite;
+            animation-timing-function:  */
+            /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+            animation: karthik 3s ease-in-out 2s infinite;
+        }
+
+        @keyframes karthik {
+            from {
+                background-color: red;
+            }
+
+            to {
+                transform: translate(500px);
+                background-color: yellow;
+            }
+        }
+
+        @keyframes kar {
+         
+              from {
+                background-color: red;
+            }
+
+            to {
+                transform: translate(500px);
+                background-color: yellow;
+            }
+               0% {
+                transform: rotate(100deg);
+            }
+
+            25% {
+                transform: rotate(200deg);
+            }
+
+            50% {
+                transform: rotate(350deg);
+            }
+
+            100% {
+                transform: rotate(210deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box"></div>
+        <div class="box n"></div>
+    </div>
+</body>
+
+</html>
